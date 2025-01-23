@@ -1,13 +1,13 @@
-package core;
+package data;
 
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
 import estorePojo.exceptions.UnknownItemException;
+import services.Client;
 
 public class Order {
 
